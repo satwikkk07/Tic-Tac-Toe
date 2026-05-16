@@ -104,7 +104,7 @@ java App
 ---
 
 ## Screenshots
-(images/game-ui.png)
+![Game-UI](images/game-ui.png)
 
 Example:
 
