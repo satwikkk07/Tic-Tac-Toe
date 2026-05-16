@@ -104,13 +104,10 @@ java App
 ---
 
 ## Screenshots
+
 ![Game-UI](images/game-ui.png)
 
-Example:
-
-```md
 ![Game-Screenshot](images/Tictactoe%20Winner%20preview.png)
-```
 
 ---
 
