@@ -109,7 +109,7 @@ java App
 Example:
 
 ```md
-![Game Screenshot](images/Tictactoe%20Winner%20preview.png)
+![Game-Screenshot](images/Tictactoe%20Winner%20preview.png)
 ```
 
 ---
